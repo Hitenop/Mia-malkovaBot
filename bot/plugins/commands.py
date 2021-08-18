@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/request_moviesorseries"
+                                    'join group', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/request_moviesorseries"
+                                    'join group', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/request_moviesorseries"
+                                    'join group', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
