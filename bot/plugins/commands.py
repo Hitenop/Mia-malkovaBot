@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/MOVIZENX"
+                                    'Developers', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/MOVIZENX"
+                                    'Developers', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/MOVIZENX"
+                                    'Developers', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/MOVIZENX'),
-        InlineKeyboardButton('Creator 🧾', url ='https://t.me/AnnihilusOP')
+        InlineKeyboardButton('Developers', url='https://t.me/request_moviesorseries'),
+        InlineKeyboardButton('Creator 🧾', url ='https://t.me/hiten_op')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/MOVIZENIX')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/request_moviesorseries')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
